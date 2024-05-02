@@ -6,4 +6,4 @@ My intentions with this wiki are to help me reset my thinking from being Object-
 
 The reason I chose to learn Elixir through books is that as a former Quality Assurance Analyst, I don’t have any bad habits in terms of writing my own code, but have a very strong foundation in concepts and comprehension. I fear that if I learn Elixir through projects I copy from online courses, I will pick up the writers habits. With this methodology I will have a purer understanding of the language, and write code in a style that is more representative of my thought process.
 
-[Introduction](Introduction)
+[Introduction](#introduction)
